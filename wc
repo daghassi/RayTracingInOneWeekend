@@ -1,0 +1,14 @@
+total 1160
+-rw-rw-r-- 1 danial danial    3610 Dec 12 23:13 camera.h
+-rw-rw-r-- 1 danial danial     627 Dec 12 23:08 color.h
+-rw-rw-r-- 1 danial danial     642 Dec 12 18:20 hittable.h
+-rw-rw-r-- 1 danial danial     899 Dec 12 18:14 hittable_list.h
+-rw-rw-r-- 1 danial danial 1072511 Dec 12 23:15 image.ppm
+-rw-rw-r-- 1 danial danial    1106 Dec 12 23:08 interval.h
+-rw-rw-r-- 1 danial danial     412 Dec 12 23:14 main.cpp
+-rw-rw-r-- 1 danial danial     394 Dec 11 22:30 ray.h
+-rwxrwxr-x 1 danial danial   70056 Dec 12 23:15 raytrace
+-rw-rw-r-- 1 danial danial     855 Dec 12 23:06 rtweekend.h
+-rw-rw-r-- 1 danial danial    1107 Dec 12 18:13 sphere.h
+-rw-rw-r-- 1 danial danial    2282 Dec 12 17:12 vec3.h
+-rw-rw-r-- 1 danial danial       0 Dec 12 23:30 wc
