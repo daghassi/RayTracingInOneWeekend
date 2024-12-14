@@ -65,4 +65,12 @@ int main() {
     cam.focus_dist    = 10.0;
 
     cam.render(world);
+
+
+
+
+
+
+
+
 }
